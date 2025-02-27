@@ -13,4 +13,13 @@ Step 3: Change server port and cors origin (Optional) by default your server run
 
 Step 4: Run project in your backend npm run serve for start node server and npm run start for frontend
 
+**Packages used**
+Tailwindcss
+Headlessui
+React router
+Axios
+UUID
+Joi
+Cors
+Dotenv
 
